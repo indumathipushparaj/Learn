@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.content-wrap {
+  padding: 10px;
+  display: flex;
+}
+label {
+  margin-right: 20px;
+}
+footer {
+  position: absolute;
+  bottom: 0;
+  justify-content: center;
+}
+button {
+  margin: 20px;
+}
